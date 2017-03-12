@@ -1,0 +1,13 @@
+.svn/
+*.build
+build
+build-*
+DerivedData
+.DS_Store
+*xcuserdata*
+*.xccheckout
+*.pyc
+*.orig
+*.dSYM
+*.swp
+*.o

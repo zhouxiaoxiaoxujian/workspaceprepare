@@ -1,0 +1,2 @@
+alias androidsdk="android update sdk --no-https --proxy-host android-mirror.bugly.qq.com:8080 -a"
+alias la="ls -a"
