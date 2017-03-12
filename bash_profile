@@ -31,7 +31,7 @@ export OPENSSL=/usr/local/opt/openssl/bin/openssl
 export PATH="$PATH:/opt/homebrew-cask/Caskroom/010-editor/latest/010 Editor.app/Contents/CmdLine"
 
 #Homebrew github token
-export HOMEBREW_GITHUB_API_TOKEN="52e5d142edba1d41b703858dec4e25fbeb68186e"
+#export HOMEBREW_GITHUB_API_TOKEN="52e5d142edba1d41b703858dec4e25fbeb68186e"
 
 #Git Editor
 export GIT_EDITOR=vim
